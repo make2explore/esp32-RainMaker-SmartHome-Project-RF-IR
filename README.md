@@ -40,11 +40,14 @@ This DIY Project is about ESP RainMaker Platform. We've discussed..
 
 ▶️ [Tutorial] Getting Started With ESP RainMaker - 🔗 https://youtu.be/AQDzyJrRA5M  
 
-▶️ [DIY Project] ESP32 IoT Home Automation Project using IR Remote and ESP Rainmaker 🔗 https://youtu.be/T786g_ZvO_Y  
+▶️ [DIY Project] ESP32 IoT Home Automation Project using IR Remote and ESP Rainmaker 
+🔗 https://youtu.be/T786g_ZvO_Y  
 
-▶️ [DIY Project] ESP32 IoT Home Automation Project using RF Remote and ESP Rainmaker 🔗 https://youtu.be/0JpGXPFtY6Y  
+▶️ [DIY Project] ESP32 IoT Home Automation Project using RF Remote and ESP Rainmaker 
+🔗 https://youtu.be/0JpGXPFtY6Y  
 
-▶️ [DIY Project] ESP32 IoT Home Automation Project using IR + RF Remote and ESP Rainmaker 🔗 https://youtu.be/A4qnnGCsRNw  
+▶️ [DIY Project] ESP32 IoT Home Automation Project using IR + RF Remote and ESP Rainmaker 
+🔗 https://youtu.be/A4qnnGCsRNw  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
